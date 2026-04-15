@@ -12,7 +12,7 @@ It's a console command that allow you to play any .mp4 file (I coded it for Bad 
 SOON!
 ## Notes:
 - I recommend putting the console to the bottom, click on the three dots then the icon that shows to put it down:
-  https://i.ibb.co/99syGyKT/image.png
+  <img width="248" height="323" alt="image (1)" src="https://github.com/user-attachments/assets/c96b12de-2ca4-4d0b-bcdf-198be3fe492b" />
 - You shouldn't close the console tab, It will broke the frames, I recommend shrinking it to the smallest and that's enjoyable.
 - I only tested it on chrome but it should work on any browser or at least on the famous ones.
 - I probably won't updated it since It's finished and there's no more thing I can update.
