@@ -10,12 +10,15 @@ Bad Apple on Roblox website game icons.
 ## What's this?
 It's a console command that allow you to play any .mp4 file (I coded it for Bad Apple) on Roblox website game icons. 
 ## How to use it?
-1. Go to: https://www.roblox.com
-2. Press F12 or Ctr + Shift + I or right click somewhere and then click on inspect.
-3. On the top you can see Elements, Console, Sources... click on the Console button.
-4. Then paste the script whats in the badappleroblox.txt file.
-5. Then it should pop up the file manager there you should choose the video you wanna import.
-6. And then under the "Recommended games for you" there should be your video playing. Enjoy!
+1. Download the badappleroblox.zip file.
+2. Unzip it, then in the robloxbadapple folder there should be a .txt file.
+3. Open the .txt file and there is the code.
+4. Go to: https://www.roblox.com
+5. Press F12 or Ctr + Shift + I or right click somewhere and then click on inspect.
+6. On the top you can see Elements, Console, Sources... click on the Console button.
+7. Then paste the script whats in the badappleroblox.txt file.
+8. Then it should pop up the file manager there you should choose the video you wanna import.
+9. And then under the "Recommended games for you" there should be your video playing. Enjoy!
 ## Check out the tutorial video:
 SOON!
 ## Notes:
