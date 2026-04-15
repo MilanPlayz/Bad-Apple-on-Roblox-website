@@ -20,9 +20,7 @@ It's a console command that allow you to play any .mp4 file (I coded it for Bad 
 8. Then it should pop up the file manager there you should choose the video you wanna import.
 9. And then under the "Recommended games for you" there should be your video playing. Enjoy!
 ## Check out the tutorial video:
-
-
-
+https://github.com/MilanPlayz/Bad-Apple-on-Roblox-website/blob/main/tutorial%20video/badappleroblox.mp4
 ## Notes:
 - I recommend putting the console to the bottom, click on the three dots then the icon that shows to put it down:
   <img width="248" height="323" alt="image (1)" src="https://github.com/user-attachments/assets/c96b12de-2ca4-4d0b-bcdf-198be3fe492b" />
