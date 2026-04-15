@@ -1,10 +1,11 @@
+<div align="center">
+
 # Bad Apple on Roblox website game icons.
 
 <div align="center">
 
 <img width="1919" height="872" alt="Képernyőkép 2026-04-15 170312" src="https://github.com/user-attachments/assets/9c39ce28-fa90-4e91-94b2-92f46fee3539" />
 
-  
 ## What's this?
 It's a console command that allow you to play any .mp4 file (I coded it for Bad Apple) on Roblox website game icons. 
 ## How to use it?
